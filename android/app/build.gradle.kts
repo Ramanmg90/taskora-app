@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.taskora.app"
-    compileSdk = 35
+    compileSdk = 36
 
     compileOptions {
         isCoreLibraryDesugaringEnabled = true
